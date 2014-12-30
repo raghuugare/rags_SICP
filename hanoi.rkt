@@ -9,6 +9,6 @@
   (display "move top disk from ") (display from)
   (display " to ")(display to))
 
-(hanoi 40 1 2 3)
+(hanoi 4 1 2 3)
 (newline)
 
