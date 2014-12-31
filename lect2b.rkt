@@ -1,4 +1,9 @@
-; Wishful Thinking...!! :)
+;; Program to solve the Towers of Hanoi problem...
+;; Prof. Sussman shows the power of Wishful Thinking...!! :)
+;;
+;; Author : Raghu Ugaré
+
+
 (define (+rat x y)
   (make-rat 
    (+ (* (numer x) (denom y))
