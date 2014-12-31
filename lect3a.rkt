@@ -1,3 +1,11 @@
+;; Program illustrating creation of custom data-structures
+;; In particular, this shows the definition of 2D-vectors, along with
+;; support for rudimentary operations on this new 'user-dfined TYPE' like Vector addition, 
+;; scaling of a vector, etc.
+;;
+;; Author : Raghu Ugaré
+;; Courtesy: the great teacher/author-s of SICP! <3 :)
+
 (define make-vec cons)
 (define xcor car)
 (define ycor cdr)
