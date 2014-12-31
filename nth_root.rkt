@@ -1,3 +1,7 @@
+;; Generalizing the Newton-Raphson method to not just finding the square-root or the cube-root
+;; but to compute the n'th root of a positive integer...! :)
+;; Author : Raghu Ugaré
+
 (define (power x n)
   (define (power-iter result base power)
   (if (<= power 0)
