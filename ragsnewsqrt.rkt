@@ -1,4 +1,9 @@
-ra(define (sqrt-iter guess n)
+;; Finding the square-root using recursion and higher-order functions.
+;;
+;;
+;; Author : Raghu Ugaré
+
+(define (sqrt-iter guess n)
  (if (good? guess n)
      guess
      (sqrt-iter (improve-guess guess n) n)))
