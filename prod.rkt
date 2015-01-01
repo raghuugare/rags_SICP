@@ -1,3 +1,8 @@
+;; Finding the factorial using higher-order functions
+;;
+;;
+;; Author : Raghu Ugaré 
+
 (define (prod term a next b)
   (if (> a b)
       1
