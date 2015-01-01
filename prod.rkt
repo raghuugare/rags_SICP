@@ -1,5 +1,5 @@
 ;; Finding the factorial using higher-order functions
-;;
+;; Shows how functions are 'first-class' citizens in Scheme & other LISP dialects!
 ;;
 ;; Author : Raghu Ugaré 
 
