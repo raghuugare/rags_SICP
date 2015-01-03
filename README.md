@@ -4,9 +4,9 @@
 
 This course was traditionally taught using the [Scheme][link_Scheme] language, which is a dialect of [LISP][link_LISP].
 
-This repo contains my programs as I sail through the awesome SICP, 'blue wizard' book, as it is popularly known.
+This repo contains my programs as I sail through the awesome SICP, the 'Wizard book', as it is popularly known.
 
-It's a MUST-have book & MUST-watch series of lectures indeed...! :)
+It's a MUST-have book & the accompanying lectures of 1980's are also MUST-watch indeed...! :)
 
 Cheers!
 
