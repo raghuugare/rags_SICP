@@ -11,7 +11,7 @@ It's a MUST-have book & MUST-watch series of lectures indeed...! :)
 Cheers!
 
 `:Raghu Ugaré` 
-
+(Planet Earth)
 ---
 
 ### Some useful links:
@@ -23,3 +23,4 @@ Cheers!
 [link_Scheme]: http://en.wikipedia.org/wiki/Scheme_(programming_language)
 [link_SICP_Amazon]: http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871
 [link_SICP_lectures]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
+[link_why_SICP_matters]: http://www.cs.berkeley.edu/~bh/sicp.html
