@@ -18,6 +18,7 @@ Cheers!
 
 + [SICP book (hard-copy)][link_SICP_Amazon]
 + [SICP video lectures at MIT-OCW(Open Course Ware) site][link_SICP_lectures]
++ [Why SICP matters by Brian Harvey][link_why_SICP_matters]
 
 [link_LISP]: http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
 [link_Scheme]: http://en.wikipedia.org/wiki/Scheme_(programming_language)
