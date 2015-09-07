@@ -1,13 +1,14 @@
-;; Finding 'Approximation to the square-root by Successive Averaging'
-;; Algorithm due to Heron of Alexandria(c. 10 – c. 70 AD)
+;;-------------------------------------------------------------------------
+;; Approximation to the square-root of a number by Successive Averaging
+;; Algorithm due to Heron of Alexandria (c. 10 – c. 70 AD)
 ;;
 ;; Implementation in Scheme using Recursion and Higher-order functions.
 ;;
-;; Author: Raghu Ugaré
-;;
 ;; Thanks: To my dear teachers--Harold Abelson & Gerald Jay Susssman @ MIT
 ;;
-;;------------------------------------------------------------------
+;; Author: Raghu Ugaré (twitter: @raghu_ugare)
+;;
+;;-------------------------------------------------------------------------
 (define (sqrt-iter guess n)
  (if (good? guess n)
      guess
@@ -31,3 +32,8 @@
 
 ;; Let's test our procedure! :-)
 (square-root 25.0)
+
+(+ (* 3 5)
+   (* 47
+      (- 20 6.8))
+   12)
