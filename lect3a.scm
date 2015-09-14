@@ -1,6 +1,6 @@
 ;; Program illustrating creation of custom data-structures
 ;; In particular, this shows the definition of 2D-vectors, along with
-;; support for rudimentary operations on this new 'user-dfined TYPE' like Vector addition, 
+;; support for rudimentary operations on this new 'user-dfined TYPE' like vector addition, 
 ;; scaling of a vector, etc.
 ;;
 ;; Author : Raghu Ugaré

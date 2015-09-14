@@ -1,10 +1,13 @@
 ;; Fixed point of a function 'f' about a point 'start'...
+;;
+;; Author: Raghu Ugaré
+;; Courtesy: the great teacher/author-s of SICP! <3 :)
 ;; ------------------------------------------------------
 
 (define (fixed-point f start)
   ;; t = tolerance
   (define t 0.000001)
-  
+
   (define (iter old new)
     (if (close-enough? old new)
         new
