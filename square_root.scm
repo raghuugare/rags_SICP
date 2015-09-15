@@ -1,5 +1,5 @@
 ;;-------------------------------------------------------------------------
-;; Approximation to the square-root of a number by Successive Averaging
+;; Approximation to the square-root of a number by Successive Averaging.
 ;; Algorithm due to Heron of Alexandria (c. 10 – c. 70 AD)
 ;;
 ;; Implementation in Scheme using Recursion and Higher-order functions.
