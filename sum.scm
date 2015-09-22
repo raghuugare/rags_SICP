@@ -1,3 +1,11 @@
+;; Different experiments in Higher order procedures
+;; using the sums of certain series...
+;;
+;; Courtesy: Prof. Gerald Jay Sussman
+;;
+;; Author : Raghu Ugaré (@raghu_ugare)
+;; 
+;;
 (define (sum term a next b)
   (if (> a b)
       0
