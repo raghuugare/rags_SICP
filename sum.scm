@@ -39,6 +39,7 @@
   (sum pi-term a pi-next b))
 
 ;; define our own identity procedure! :)
+;; NOTE: Need to comment this in Dr.Racket, since it's already defined there.
 (define identity
   (lambda (x)
     x))
