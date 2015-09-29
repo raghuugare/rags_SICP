@@ -4,7 +4,7 @@
 ;; Courtesy: Prof. Gerald Jay Sussman
 ;;
 ;; Author : Raghu Ugaré (@raghu_ugare)
-;; 
+;;
 ;;
 (define (sum term a next b)
   (if (> a b)
@@ -40,11 +40,13 @@
 
 ;; define our own identity procedure! :)
 ;; NOTE: Need to comment this in Dr.Racket, since it's already defined there.
-(define identity
-  (lambda (x)
-    x))
+;;(define identity
+;;  (lambda (x)
+;;    x))
 
 (sum-integers 1 10)
+
+(sum-integers 1 100)
 
 (sum-iter identity  1 inc 10)
 
