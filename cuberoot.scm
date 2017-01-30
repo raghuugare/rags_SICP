@@ -1,3 +1,6 @@
+;; ===================================================
+;; Finding the cube-root of an integer...
+;; ====================================================
 (define (cube-root-iter guess n)
  (if (good? guess n)
      guess
