@@ -8,7 +8,7 @@ This repo contains my programs as I sail through the awesome SICP, the 'Wizard b
 
 It's a MUST-have book & the accompanying lectures of 1980's are also MUST-watch indeed...! :)
 
-Cheers!
+Cheers and Best Wishes!
 
 `:Raghu Ugaré` 
 (Planet Earth)
