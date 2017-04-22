@@ -14,7 +14,7 @@ Enjoy! <3 :)
 
 Cheers and Best Wishes!
 
-`:Raghu Ugaré` 
+Raghu Ugare 
 (Planet Earth)
 ---
 
