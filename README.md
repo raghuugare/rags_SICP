@@ -6,7 +6,7 @@ This course was traditionally taught using the [Scheme][link_Scheme] language, w
 
 This repo contains some of my programs as I sail through the awesome SICP, the 'Wizard book', as it is popularly known.
 
-This is a MUST-have book & the accompanying lectures of 1980's are also strongly recommended in deed!
+This book is a must-have, & the accompanying lectures of 1980's are also strongly recommended for all programmers!
 
 And in case you do not have the hard-copy, the book is available online [here][link_SICP_online].
 
