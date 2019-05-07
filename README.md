@@ -1,6 +1,6 @@
 ## My work on SICP
 
-**SICP** = **S**tructure and **I**nterpretation of **C**omputer **P**rograms, the legendary text-book as well as course on Programming taught by Profs. Harold Abelson & Gerald Sussman.
+**SICP** = **S**tructure and **I**nterpretation of **C**omputer **P**rograms, the legendary text-book as well as course on Programming taught by Professors Harold Abelson & Gerald Sussman at MIT.
 
 This course was traditionally taught using the [Scheme][link_Scheme] language, which is a dialect of [LISP][link_LISP].
 
